@@ -1,2 +1,2 @@
 # Expense
-This is a  an API Suite using SpringBoot (Java ) that is  used to build an app which tracks bills and other shared expenses by roommates. The API also support CRUD operations.
+This is my assignment for SDE-1, in this assignment i had  created an API Suite using SpringBoot (Java) and a React frontend which tracks bills and other shared expenses.The APIs also support CRUDoperations.
